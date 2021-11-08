@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="invadem.ProjectileTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2019-11-26T14:05:45" hostname="Thaos-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="testGetShooter" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testProjectileConstructionType1" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testProjectileConstructionType2" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testPowerProjectileCheckCollision" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testGetDamageProjectileRegular" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testProjectileOutOfScreen" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testGetDamageProjectileArmoured" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testProjectileMove" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testRegularProjectileCheckCollision" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testProjectileGetWidth" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testGetDamageProjectilePower" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testGetShooter" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testProjectileConstructionType1" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testProjectileConstructionType2" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testPowerProjectileCheckCollision" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testGetDamageProjectileRegular" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testProjectileOutOfScreen" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testGetDamageProjectileArmoured" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testProjectileMove" classname="invadem.ProjectileTest" time="0.001"/>
+  <testcase name="testRegularProjectileCheckCollision" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testProjectileGetWidth" classname="invadem.ProjectileTest" time="0.0"/>
+  <testcase name="testGetDamageProjectilePower" classname="invadem.ProjectileTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

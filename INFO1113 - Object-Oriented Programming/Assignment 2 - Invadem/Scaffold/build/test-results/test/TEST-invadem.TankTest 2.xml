@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="invadem.TankTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2019-11-11T14:44:43" hostname="Thaos-MacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="testStopMovingRight" classname="invadem.TankTest" time="0.006"/>
+  <testcase name="testGetWidth" classname="invadem.TankTest" time="0.001"/>
+  <testcase name="testInteractionWithBullets" classname="invadem.TankTest" time="0.0"/>
+  <testcase name="testGetX" classname="invadem.TankTest" time="0.0"/>
+  <testcase name="testGetY" classname="invadem.TankTest" time="0.0"/>
+  <testcase name="testSetX" classname="invadem.TankTest" time="0.0"/>
+  <testcase name="testSetY" classname="invadem.TankTest" time="0.0"/>
+  <testcase name="testStopMovingLeft" classname="invadem.TankTest" time="0.0"/>
+  <testcase name="testGotShot" classname="invadem.TankTest" time="0.0"/>
+  <testcase name="testTankFire" classname="invadem.TankTest" time="0.001"/>
+  <testcase name="testCheckCollisionTrue" classname="invadem.TankTest" time="0.0"/>
+  <testcase name="testMoveLeft" classname="invadem.TankTest" time="0.0"/>
+  <testcase name="testGetHealth" classname="invadem.TankTest" time="0.0"/>
+  <testcase name="testCheckCollisionFalse" classname="invadem.TankTest" time="0.0"/>
+  <testcase name="testTankConstruction" classname="invadem.TankTest" time="0.0"/>
+  <testcase name="testTankIsNotDead" classname="invadem.TankTest" time="0.001"/>
+  <testcase name="testMoveRight" classname="invadem.TankTest" time="0.0"/>
+  <testcase name="testSetImage" classname="invadem.TankTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

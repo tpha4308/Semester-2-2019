@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="invadem.InvaderTest" tests="34" skipped="0" failures="0" errors="0" timestamp="2019-11-26T14:05:45" hostname="Thaos-MacBook-Pro.local" time="0.023">
+  <properties/>
+  <testcase name="testArmouredPowerConstruction" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testRemoveDeadInvaders" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testRegularInvaderGotShot" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testArmouredInvaderGotShot" classname="invadem.InvaderTest" time="0.001"/>
+  <testcase name="testAllMovementStates2" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testInteractionWithBullets" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testGetScoreValue" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testPowerInvaderConstruction" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testMoveLeftToRight" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testMoveDownwards" classname="invadem.InvaderTest" time="0.001"/>
+  <testcase name="testSetSpritesData" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testRegularInvaderConstruction" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testLotsOfMovements" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testInvFire" classname="invadem.InvaderTest" time="0.001"/>
+  <testcase name="testMoveLeftToRight30" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testMoveRightToLeft" classname="invadem.InvaderTest" time="0.001"/>
+  <testcase name="testAllMovementStates" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testArmouredPowerConstruction" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testRemoveDeadInvaders" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testRegularInvaderGotShot" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testArmouredInvaderGotShot" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testAllMovementStates2" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testInteractionWithBullets" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testGetScoreValue" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testPowerInvaderConstruction" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testMoveLeftToRight" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testMoveDownwards" classname="invadem.InvaderTest" time="0.001"/>
+  <testcase name="testSetSpritesData" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testRegularInvaderConstruction" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testLotsOfMovements" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testInvFire" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testMoveLeftToRight30" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testMoveRightToLeft" classname="invadem.InvaderTest" time="0.0"/>
+  <testcase name="testAllMovementStates" classname="invadem.InvaderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
